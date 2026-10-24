@@ -11,8 +11,8 @@ Toco o [Ideo Estúdio](https://estudio-ideo.com.br), onde faço identidade visua
 | Projeto | O que é |
 | --- | --- |
 | [Widgets Ideo](https://github.com/alexsouza-ideo/widgets-ideo) | Widgets de área de trabalho para Windows, em Tauri e Rust: relógio, tarefas, galeria, uso do PC. Arrastáveis e presos na camada dos ícones |
-| [Site do Ideo Estúdio](https://github.com/alexsouza-ideo/Ideo-estudio) | Site do estúdio no tema "carta celeste", com painel de edição, formulário de orçamento e política de segurança documentada |
-| [Painel de gestão](https://github.com/alexsouza-ideo/painel-de-gestao) | Sistema web do estúdio com Supabase: tarefas, posts e equipe, com login e regras de acesso testadas |
+| [Site do Ideo Estúdio](https://estudio-ideo.com.br) | Site do estúdio no tema "carta celeste", com painel de edição, formulário de orçamento e política de segurança documentada. Código abrindo em breve |
+| Painel de gestão | Sistema web do estúdio com Supabase: tarefas, posts e equipe, com login e regras de acesso testadas. Código abrindo em breve |
 
 ### Com o que eu trabalho
 
